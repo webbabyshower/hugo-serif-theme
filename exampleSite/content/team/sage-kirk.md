@@ -6,7 +6,6 @@ jobtitle: Partner
 linkedinurl: https://www.linkedin.com/in/ian-perschke-0a0640/
 promoted: true
 weight: "2"
-draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
