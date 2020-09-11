@@ -23,5 +23,3 @@ fields:
 - type: number
   name: weight
   label: weight
-pages:
-- exampleSite/content/team-member.md
