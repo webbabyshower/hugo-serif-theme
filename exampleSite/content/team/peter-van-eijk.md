@@ -8,6 +8,6 @@ promoted: true
 weight: "1"
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Kurt is the owner-operator of a saas company valued at 2m that has grown sales 3400% under his management. As a passive investor, he was the lead investor in Domain Magnate's [DM 1 Fund](https://www.domainmagnate.com/fund1-results/). He has also partnered with OnFolio, and is the lead partner in a passive site portfolio valued over 1m.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kurt got started in the online space when he was looking for entrepreneurial opportunities he could develop while traveling for his career as a public artist. A native of Chicago, he lived in New York City for 15 years before relocating with his wife and young daughter to Asheville, NC.
