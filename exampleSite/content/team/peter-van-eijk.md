@@ -1,7 +1,7 @@
 ---
 title: Kurt Perschke
 date: 2019-09-09T23:47:58+00:00
-image: images/team/peter-van-eijk-711986-unsplash.jpg
+image: uploads/rbrouen_2019_06_0500_sq_js_sp.jpg
 jobtitle: Partner
 linkedinurl: https://www.linkedin.com/in/kurtperschke/
 promoted: true
