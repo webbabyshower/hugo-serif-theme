@@ -1,6 +1,5 @@
 +++
 date = 2020-09-09T04:00:00Z
-draft = true
 image = "/uploads/rbparis_13_07_1696_tm_headshot_sq.jpg"
 jobtitle = "Partner"
 linkedinurl = "https://www.linkedin.com/in/kurtperschke/"
