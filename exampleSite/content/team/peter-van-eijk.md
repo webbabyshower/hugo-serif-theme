@@ -1,12 +1,11 @@
 ---
 title: Kurt Perschke
-date: 2019-09-09T23:47:58+00:00
+date: 2019-09-09T23:47:58.000+00:00
 image: uploads/rbrouen_2019_06_0500_sq_js_sp.jpg
 jobtitle: Partner
 linkedinurl: https://www.linkedin.com/in/kurtperschke/
 promoted: true
 weight: "1"
-draft: true
 
 ---
 Kurt is the owner-operator of a saas company valued at 2m that has grown sales 3400% under his management. As a passive investor, he was the lead investor in Domain Magnate's [DM 1 Fund](https://www.domainmagnate.com/fund1-results/). He has also partnered with OnFolio, and is the lead partner in a passive site portfolio valued over 1m.
