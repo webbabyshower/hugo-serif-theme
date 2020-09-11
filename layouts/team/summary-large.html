@@ -10,5 +10,5 @@
     {{ if .Params.Linkedinurl }}
     <a target="_blank" href="{{ .Params.Linkedinurl }}">LinkedIn</a> {{ end }}
   </div>
-  <div class="team-content">    {{ .Content | truncate 120 "…" }}</div>
+  <div class="team-content">    {{ .Content }}</div>
 </div>
