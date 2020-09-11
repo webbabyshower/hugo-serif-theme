@@ -23,3 +23,5 @@ fields:
 - type: number
   name: weight
   label: weight
+pages:
+- exampleSite/content/mark-dino.md
